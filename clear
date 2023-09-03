@@ -1,0 +1,76 @@
+[33mcommit b174e4deea054908602cd3c41d96bf5ac40ad1cf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mmyLatestPortfolio/master[m[33m)[m
+Author: Rishab789 <beraprakash456@gmail.com>
+Date:   Sun Sep 3 10:25:32 2023 +0530
+
+    commited now
+
+ src/App.js                   |  2 [32m++[m
+ src/components/Contact.jsx   | 45 [32m++++++++++++++++++++++++++++++++++++++++++++[m
+ src/components/Portfolio.jsx |  4 [32m++[m[31m--[m
+ 3 files changed, 49 insertions(+), 2 deletions(-)
+
+[33mcommit 9614160e3f66a3a29e0b9a67a2a64b6070ea1d65[m
+Author: Rishab789 <beraprakash456@gmail.com>
+Date:   Sat Sep 2 23:48:23 2023 +0530
+
+    latest commit
+
+ package-lock.json                                 |  31 [32m+++++++[m
+ package.json                                      |   5 [32m++[m
+ postcss.config.js                                 |   6 [32m++[m
+ public/My Resume Frontend.pdf                     | Bin [31m0[m -> [32m317264[m bytes
+ src/App.css                                       |  15 [32m++++[m
+ src/App.js                                        |  30 [32m+++[m[31m----[m
+ src/components/About.jsx                          |  28 [32m++++++[m
+ src/components/Experience.jsx                     |  93 [32m++++++++++++++++++++[m
+ src/components/Home.jsx                           |  45 [32m++++++++++[m
+ src/components/NavBar.jsx                         |  82 [32m++++++++++++++++++[m
+ src/components/Portfolio.jsx                      |  61 [32m+++++++++++++[m
+ src/components/SocialLinks.jsx                    | 100 [32m++++++++++++++++++++++[m
+ src/components/assets/css.png                     | Bin [31m0[m -> [32m16557[m bytes
+ src/components/assets/github.png                  | Bin [31m0[m -> [32m22190[m bytes
+ src/components/assets/graphql.png                 | Bin [31m0[m -> [32m120736[m bytes
+ src/components/assets/heroImage.png               | Bin [31m0[m -> [32m633771[m bytes
+ src/components/assets/html.png                    | Bin [31m0[m -> [32m17980[m bytes
+ src/components/assets/javascript.png              | Bin [31m0[m -> [32m10565[m bytes
+ src/components/assets/nextjs.png                  | Bin [31m0[m -> [32m22483[m bytes
+ src/components/assets/node.png                    | Bin [31m0[m -> [32m32309[m bytes
+ src/components/assets/portfolio/arrayDestruct.jpg | Bin [31m0[m -> [32m91188[m bytes
+ src/components/assets/portfolio/installNode.jpg   | Bin [31m0[m -> [32m85556[m bytes
+ src/components/assets/portfolio/navbar.jpg        | Bin [31m0[m -> [32m87973[m bytes
+ src/components/assets/portfolio/reactParallax.jpg | Bin [31m0[m -> [32m246544[m bytes
+ src/components/assets/portfolio/reactSmooth.jpg   | Bin [31m0[m -> [32m95231[m bytes
+ src/components/assets/portfolio/reactWeather.jpg  | Bin [31m0[m -> [32m211419[m bytes
+ src/components/assets/portfolio/usestate.jpg      | Bin [31m0[m -> [32m69696[m bytes
+ src/components/assets/react.png                   | Bin [31m0[m -> [32m37763[m bytes
+ src/components/assets/tailwind.png                | Bin [31m0[m -> [32m17116[m bytes
+ src/index.css                                     |  30 [32m++++[m[31m---[m
+ src/index.js                                      |  10 [32m+[m[31m--[m
+ tailwind.config.js                                |  14 [32m+++[m
+ 32 files changed, 515 insertions(+), 35 deletions(-)
+
+[33mcommit 7bb9c093ed66c417ae96ca2abcc6e6041c634a8d[m
+Author: Rishab789 <beraprakash456@gmail.com>
+Date:   Tue Aug 22 18:10:17 2023 +0530
+
+    Initialize project using Create React App
+
+ .gitignore             |    23 [32m+[m
+ README.md              |    70 [32m+[m
+ package-lock.json      | 17664 [32m+++++++++++++++++++++++++++++++++++++++++++++++[m
+ package.json           |    38 [32m+[m
+ public/favicon.ico     |   Bin [31m0[m -> [32m3870[m bytes
+ public/index.html      |    43 [32m+[m
+ public/logo192.png     |   Bin [31m0[m -> [32m5347[m bytes
+ public/logo512.png     |   Bin [31m0[m -> [32m9664[m bytes
+ public/manifest.json   |    25 [32m+[m
+ public/robots.txt      |     3 [32m+[m
+ src/App.css            |    38 [32m+[m
+ src/App.js             |    25 [32m+[m
+ src/App.test.js        |     8 [32m+[m
+ src/index.css          |    13 [32m+[m
+ src/index.js           |    17 [32m+[m
+ src/logo.svg           |     1 [32m+[m
+ src/reportWebVitals.js |    13 [32m+[m
+ src/setupTests.js      |     5 [32m+[m
+ 18 files changed, 17986 insertions(+)
