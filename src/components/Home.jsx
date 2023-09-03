@@ -7,9 +7,9 @@ const Home = () => {
   return (
     <div name="home" className="h-full min-w-fit bg-gradient-to-b from-black via-black to-gray-800">
 
-        <div className=" mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row ">
-            <div className="md:w-[200%] ">
-            <img src={HeroImage} alt="my profile"  className="rounded-2xl mx-auto  w-2/3 md:w-[100%] my-10 "/>
+        <div className=" mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row w-full">
+            <div className="md:w-[200%] w-full">
+            <img src={HeroImage} alt="my profile"  className="rounded-2xl mx-auto  w-full md:w-[100%] my-10 "/>
 
             </div>
             {/* max-w-screen-lg */}
@@ -22,7 +22,8 @@ const Home = () => {
 
                 </h2>
                 <p className="text-gray-500 py-4 ">
-                I don't like Frontend. But Frontend likes me. Then how can I break the heart of this magnificient Developement, where you will get, what you want, by designing beautiful websites. That is real peace in life. By filling the below form, you can reach to me. Meet you soon!
+                    I am very Optimistic about the Future. I always think that, in this rapid transactions of technology, what more can be built through UI Development and How Frontend can help millions of people. It will be very exciting to see. Isn't it? You can reach out to me by sending a message from the below Contact form. See you soon!
+               
 
                 </p>
 

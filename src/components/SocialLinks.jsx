@@ -59,7 +59,7 @@ export const SocialLinks = () => {
 
                 </>
             ),
-            href: './My Resume Frontend.pdf',
+            href: './PrakashChandraBera_frontend_developer.pdf',
             style: 'rounded-br-md',
             download:true
                 

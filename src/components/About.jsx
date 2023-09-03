@@ -10,12 +10,13 @@ const About = () => {
                 </p>
             </div>
 
-            <p className="text-xl mt-20">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea aspernatur placeat quaerat, et at dolorum nam harum non impedit? Veniam necessitatibus dicta accusantium, veritatis eveniet nostrum nam deleniti ut asperiores nemo dolore sunt nobis molestias quam modi temporibus! Veritatis, laborum ad. Vero odio assumenda perferendis ipsum alias iure accusantium tempora.</p>
+            <p className="text-xl mt-20">Hi, My name is Prakash Chandra Bera. I am from Rourkela, Odisha. I am very passionate about website development, that is why I chose this career path. But this is not going to work for me to get a job. I know. So I have created these beautiful websites, that you can check out from the Portfolio Section.</p>
 
 
             <br></br>
 
-            <p className="text-xl ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, illo laborum temporibus ipsum deleniti eius impedit. Aperiam dolorem cupiditate non! Est, cum. Natus consequatur distinctio nulla sit enim quia aspernatur vitae quisquam eum, recusandae laudantium quaerat a accusantium eveniet et soluta dolores ullam, tenetur totam est debitis sunt. Dolorem, reprehenderit?</p>
+            <p className="text-xl ">With this, I also have some hands on experience on 
+            Servicenow Modules like Business Rule, Catalog item, Record Producers, Incident management, Script include, Workflow, Flow Designer. Also worked on REST API integration, through scripted Rest API. Thank You.</p>
         </div>
 
 
