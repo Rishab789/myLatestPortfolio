@@ -39,7 +39,7 @@ const NavBar = () => {
   return (
     <div className="flex justify-between items-center min-w-fit h-20 text-white  bg-black px-4 ">
         <div>
-            <h1 className="text-5xl font-signature ml-2 ">
+            <h1 className="text-5xl font-signature ml-2 overflow-hidden pt-1">
                 Prakash
             </h1>
         </div>
