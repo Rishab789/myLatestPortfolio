@@ -8,7 +8,7 @@ const Home = () => {
     <div name="home" className="h-full min-w-fit bg-gradient-to-b from-black via-black to-gray-800">
 
         <div className=" mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row w-full">
-            <div className="md:w-[200%] w-full">
+            <div className="md:w-[200%] w-[200%] ml-10">
             <img src={HeroImage} alt="my profile"  className="rounded-2xl mx-auto  w-full md:w-[100%] my-10 "/>
 
             </div>
@@ -17,7 +17,7 @@ const Home = () => {
             {/* w-full h-4 md:ml-[-80px] */}
             <div className="flex flex-col justify-center h-full text-left w-full md:w-[160%] ">
                 
-                <h2 className="text-4xl md:text-7xl font-bold text-white  "> 
+                <h2 className="text-4xl md:text-7xl font-bold text-white md:w-[150%]"> 
                 Hi I'm a Frontend Developer 
 
                 </h2>
