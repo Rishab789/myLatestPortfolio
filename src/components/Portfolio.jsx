@@ -1,7 +1,8 @@
 import React from 'react'
 import Youtube_clone from './assets/portfolio/Youtube_clone.jpg'
-import installNode from './assets/portfolio/installNode.jpg'
+
 import navBar from './assets/portfolio/navbar.jpg'
+import ecommerce from './assets/ecommerce.png'
 
 
 
